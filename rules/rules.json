@@ -40,6 +40,7 @@
     "^/Current-Students/Frequently-Asked-Questions /emergency/frequently-asked-questions.html [R=301,L,NC]",
     "^/Current-Students/Computing-IT /student-resources/computing-it.html [R=301,L,NC]",
     "^/Current-Students/Campus-Parking /student-resources/campus-parking.html [R=301,L,NC]",
+    "^/Current-Students/Emergency-Notifications /emergency/index.html [R=301,L,NC]",
     "^/Current-Students /student-resources/index.html [R=301,L,NC]",
     "^/Admissions/* /admissions/index.html [R=301,L]",
     "^/Academics/* /academics/index.html [R=301,L]",
